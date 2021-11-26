@@ -1,0 +1,5 @@
+require('settings')
+require('colors')
+require('plugins/packer')
+require('plugins/nvim-tree')
+require('plugins/indent-blankline')
